@@ -1,0 +1,3 @@
+ahad 50
+anis 100
+fahad 150
